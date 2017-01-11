@@ -1,0 +1,35 @@
+{
+  "name": "openapi-utils-path-methods",
+  "version": "0.0.1",
+  "description": "Get openapi path methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orangewise/openapi-utils-path-methods.git"
+  },
+  "keywords": [
+    "openapi",
+    "path",
+    "methods"
+  ],
+  "author": "Ronald Luitwieler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orangewise/openapi-utils-path-methods/issues"
+  },
+  "homepage": "https://github.com/orangewise/openapi-utils-path-methods#readme",
+  "devDependencies": {
+    "standard": "^8.6.0",
+    "tape": "^4.6.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "standard": "^8.6.0",
+    "tape": "^4.6.3"
+  }
+}
